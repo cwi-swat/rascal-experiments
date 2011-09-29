@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: rascal-experiments
+Bundle-SymbolicName: rascal-experiments
+Bundle-Version: 0.0.1.qualifier
+Require-Bundle: org.eclipse.imp.pdb.values,
+ rascal
